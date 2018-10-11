@@ -44,7 +44,7 @@ Add EditText to your layout via XML
 </LinearLayout>
 
 ```
-Add EditText to your layout programatically
+Add EditText to your layout programatically via Java
 
 ```
 public class MainActivity extends AppCompatActivity {
