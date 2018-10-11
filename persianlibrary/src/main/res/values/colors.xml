@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1D2637</color>
+    <color name="colorPrimaryDark">#343c4b</color>
+    <color name="colorAccent">#fca90a</color>
+    <color name="colorAccent_disable">#FFA3751C</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#fd0404</color>
+    <color name="car">#3F5E97</color>
+    <color name="textColor">#f1f1f1</color>
+    <color name="texthilight">#d6137a</color>
+</resources>
