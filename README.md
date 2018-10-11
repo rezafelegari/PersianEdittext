@@ -1,7 +1,5 @@
 # PersianEdittext
-[![](https://jitpack.io/v/rezafelegari/Android-Link-Preview.svg)](https://jitpack.io/#rezafelegari/Android-Link-Preview)
-
-
+[![](https://jitpack.io/v/rezafelegari/PersianEdittext.svg)](https://jitpack.io/#rezafelegari/PersianEdittext)
 Simple Persian EditText for Android
 
 ## Intro
