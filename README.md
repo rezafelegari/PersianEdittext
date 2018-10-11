@@ -84,6 +84,6 @@ allprojects {
 Grandle :
 ```
 dependencies {
-     implementation 'com.github.rezafelegari:Android-Link-Preview:1.1'
+      implementation 'com.github.rezafelegari:PersianEdittext:1.0'
 }
 ```
